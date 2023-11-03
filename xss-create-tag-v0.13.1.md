@@ -14,7 +14,7 @@ After that, every time an article is open for review/edit will execute the paylo
 ![image](https://github.com/dd3x3r/enhavo/assets/74184545/06662328-1ac9-4da5-9235-db1857145430)
 ![Crafted Payload](https://github.com/dd3x3r/enhavo/assets/74184545/a64e5406-344b-4b76-b3e4-55a087c59977)
 
-3. As a result, when saved, the XSS is executed.
+3. As a result, when saved and previewed, the XSS is executed.
 ![image](https://github.com/dd3x3r/enhavo/assets/74184545/2f81fe6f-ea28-4f3f-bbcf-76764da69efd)
 
 4. If selected from the dropdown list in another article or the same, it will execute without the need for saving the changes.
