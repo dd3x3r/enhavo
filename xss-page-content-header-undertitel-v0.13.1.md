@@ -10,7 +10,7 @@ After that, every time the `page` is accessed, the browser will execute the payl
 ---
 # PoC
 
-1. An article is added or is just edited, in the field to add a new tag, we need to create a new one, where a crafted payload is given.
+1. It is needed to edit or create a new `Page`, in it in the `Content` tab at the `Header` section, the vulnerable field is `Undertitel` where a crafted payload is given.
 ![image](https://github.com/dd3x3r/enhavo/assets/74184545/16e0d4f5-2153-4e76-9aff-806bb01b7b5c)
 ![image](https://github.com/dd3x3r/enhavo/assets/74184545/44d8a6c6-7863-422f-8c7a-4f01ba87ecd5)
 
